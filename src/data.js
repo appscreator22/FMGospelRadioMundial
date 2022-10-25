@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"Sunny in Saint Petersburg",
-            artist: "Saib",
-            cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
+            name:"presenz Radio",
+            artist: "presenzRadio",
+            cover: "https://img.freepik.com/psd-gratis/maqueta-auriculares-flotante_1332-8173.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=16076",
+            audio: "http://198.178.121.76:8261/stream",
             active: true,
         },
         {
@@ -110,6 +110,7 @@ function chillHop() {
             color: ["#7BC8DD", "#D64A59"],
             audio: "https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1",
             active: false,
+            
         },
     ];
 }
