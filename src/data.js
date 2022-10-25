@@ -69,7 +69,7 @@ function chillHop() {
         {
             name:"Shekinah Radio",
             artist: "ShekinahRadio",
-            cover: "https://img.freepik.com/foto-gratis/telefono-icono-musica-auriculares-sobre-fondo-borroso-concepto-escucha-musica-espacio-copia_169016-14361.jpg",
+            cover: "https://img.freepik.com/foto-gratis/dispositivo-digital-inalambrico-auriculares-rosa_53876-96804.jpg",
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
             audio: "https://usa7.fastcast4u.com/proxy/shekinahwebkr?mp=/1",
