@@ -101,15 +101,7 @@ function chillHop() {
             color: ["#191516", "#82698E"],
             audio: "https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1",
             active: false,
-        },
-        {
-            name:"African Praise Radio",
-            artist: "AfricanPraiseRadio",
-            cover: "https://img.freepik.com/vector-gratis/auriculares-radio-microfono-letreros-neon_1262-19593.jpg",
-            id: uuidv4(),
-            color: ["#7BC8DD", "#D64A59"],
-            audio: "https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1",
-            active: false   
+      
             
         },
     ];
