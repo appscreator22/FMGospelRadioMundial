@@ -109,8 +109,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
             audio: "https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1",
-            active: false,
-            
+            active: false   
         },
     ];
 }
