@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"presenz Radio",
-            artist: "presenzRadio",
+            name:"African Praise Radio",
+            artist: "AfricanPraiseRadio",
             cover: "https://img.freepik.com/psd-gratis/maqueta-auriculares-flotante_1332-8173.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "http://198.178.121.76:8261/stream",
+            audio: "https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1",
             active: true,
         },
         {
